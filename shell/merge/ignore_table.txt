@@ -1,0 +1,16 @@
+tb_database_version
+tb_day_history
+tb_bosschallenge
+tb_festivalact
+tb_forb_mac
+tb_pvp_season_history
+tb_redequipdraw_record
+tb_worldboss
+tb_player_adventure
+tb_setting
+tb_ytjz
+tb_draw_pool
+tb_player_advice
+tb_moshen_att
+tb_guild_info_for_all
+tb_boss_equip_rob
