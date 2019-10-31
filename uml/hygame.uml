@@ -658,7 +658,7 @@ actorid
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">679,934;165,934</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">679,918;165,918</XPD:ATTR>
 <XPD:REF name="Model">drs/dFPRtkWFpEPSvVAcAgAA</XPD:REF>
 <XPD:REF name="Head">7mpXD4jna0uA+1dOFpM3fwAA</XPD:REF>
 <XPD:REF name="Tail">B1f8iiwOwEmC+MLL0ZbbMgAA</XPD:REF>
@@ -685,7 +685,7 @@ actorid
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="Tgsz0sWl5kKomCLbZMpnVAAA">
 <XPD:ATTR name="Left" type="integer">152</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">934</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">918</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>

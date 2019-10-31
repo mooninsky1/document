@@ -70,14 +70,14 @@
 <XPD:REF name="DiagramOwner">7UwvX2S+tEKUhH1UcsjFrwAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLSequenceDiagramView" guid="OTehqqwZx0CUmHsNil51dgAA">
 <XPD:REF name="Diagram">enze8i0RRkGuBsN7+Ve6jQAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">25</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">28</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLSeqObjectView" guid="UdPpojDbPk+YRyb5Q5uuFgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">124</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">68</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">777</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">915</XPD:ATTR>
 <XPD:REF name="Model">7K6wngVuBkCpoJ41l9ecCAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="m8Nxl/Kx8UaAXEKUxVT/pwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="p0Dq7FkYqUS34XJASqxY6wAA">
@@ -125,7 +125,7 @@
 <XPD:ATTR name="Left" type="integer">644</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">64</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">781</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">919</XPD:ATTR>
 <XPD:REF name="Model">3dIj4yOeR0m4uAPg0A05KAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="1+kr69FrMEinIrVUBYU8YwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="8bJBMz3fGk277BaHFVM81AAA">
@@ -658,7 +658,7 @@ actorid
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">679,796;165,796</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">679,934;165,934</XPD:ATTR>
 <XPD:REF name="Model">drs/dFPRtkWFpEPSvVAcAgAA</XPD:REF>
 <XPD:REF name="Head">7mpXD4jna0uA+1dOFpM3fwAA</XPD:REF>
 <XPD:REF name="Tail">B1f8iiwOwEmC+MLL0ZbbMgAA</XPD:REF>
@@ -685,7 +685,7 @@ actorid
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="Tgsz0sWl5kKomCLbZMpnVAAA">
 <XPD:ATTR name="Left" type="integer">152</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">796</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">934</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>
@@ -703,9 +703,39 @@ actorid
 <XPD:OBJ name="OwnedViews[24]" type="UMLNoteLinkView" guid="kqcQlFOen0GeAH+hz82KuAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1011,692;824,572;709,734</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">988,710;709,734</XPD:ATTR>
 <XPD:REF name="Head">8Ob2Uhg+fUSewGIes6QyiwAA</XPD:REF>
 <XPD:REF name="Tail">s38CaA/9f0GFZDbQwLtYDQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[25]" type="UMLNoteView" guid="S5QfUDw44kin807A2XuN2wAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">840</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">800</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">92</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">返回角色信息
+</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[26]" type="UMLNoteView" guid="L4M67eM7kEySXC3UeBKXYgAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">940</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">840</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">68</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">创建角色
+</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[27]" type="UMLNoteView" guid="hGizEKNWQ0WZGmblQSxr7gAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">844</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">876</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">68</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">角色登录
+</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
