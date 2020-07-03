@@ -1,0 +1,1 @@
+SELECT count(*) from house WHERE lintainSpeedTime >=1592239944 or lincangSpeedTime >1592239944 or yaotianSpeedTime >1592239944 or lincangSpeedTime >1592239944
