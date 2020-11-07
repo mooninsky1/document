@@ -1,0 +1,2 @@
+SELECT a.actorid,a.logid,a.finishtime,(a.finishtime-b.finishtime)as difftime from actorlog as a LEFT JOIN  actorlog  as b on a.actorid=b.actorid and b.logid=101
+WHERE a.actorid in (SELECT actorid from actorlog where logid >=103)ORDER BY a.actorid
